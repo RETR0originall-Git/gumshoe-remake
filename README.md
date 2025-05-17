@@ -6,7 +6,7 @@ ________________________________________________________________________________
 I am not the original author or creator of the extension – I only updated it. Have fun!
 
 # How to import extension into browser? 
-1. Download the package from the [release](https://github.com/RETR0originall-Git/gumshoe-remake/releases/tag/JavaScript), **and make sure to get the latest version!**
+1. Download the package from the [release](https://github.com/RETR0originall-Git/gumshoe-remake/releases/tag/MainRelease), **and make sure to get the latest version!**
 2. Extract it to any location on your computer.
 3. Go to your browser’s extension settings, enable Developer Mode, then click 'Import unpacked' and select the extracted folder from the package.
 4. If you find some problems or bugs, you can try contant with me.

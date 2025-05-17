@@ -1,4 +1,4 @@
-[![Logo](logo.png)]([https://github.com/RETR0originall-Git/gumshoe-remake](https://github.com/RETR0originall-Git/gumshoe-remake/blob/main/logo2.png))
+[![Logo](logo.png)](https://github.com/RETR0originall-Git/gumshoe-remake/blob/main/Logo.png))
 # gumshoe-remake
 Recreated Gumshoe extension that works! Original rep: [click for more informations](https://github.com/ajar/gumshoe)
 Gumshoe is a Chrome extension for discreet password logging. It monitors the submission of all forms with a password field and stores any unique login details in a local database.

@@ -14,6 +14,6 @@ I am not the original author or creator of the extension – I only updated it. 
 # Is it safe?
 Yep. But in your case it depends, the extension is open-source so you always free to see code.
 The remake doesn't change any other things, your password, emails are still save in local Data Base, you don't have to panic.
-Everything locally, other ways: I can't steal your data.
+Everything locally, in other ways: I can't steal your data.
 
 [![ScreenshotOfProject](Screenshot.png)](https://github.com/RETR0originall-Git/gumshoe-remake/blob/main/Screenshot.png)

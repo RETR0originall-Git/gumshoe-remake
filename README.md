@@ -16,5 +16,5 @@ Yep. But in your case it depends, the extension is open-source so you always fre
 The remake doesn't change any other things, your password, emails are still save in local Data Base, you don't have to panic.
 Everything locally, other ways: I can't steal your data.
 
-[[Screenshot.png](https://github.com/RETR0originall-Git/gumshoe-remake/blob/main/Screenshot.png)](https://github.com/RETR0originall-Git/gumshoe-remake/blob/main/Screenshot.png)
+[[Screenshot.png](https://github.com/RETR0originall-Git/gumshoe-remake/blob/main/Screenshot.png)
 

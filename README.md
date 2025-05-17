@@ -1,4 +1,5 @@
 # gumshoe-remake
+![Logo](./img/logo2.png)
 Recreated Gumshoe extension that works! Original rep: [click for more informations](https://github.com/ajar/gumshoe)
 Gumshoe is a Chrome extension for discreet password logging. It monitors the submission of all forms with a password field and stores any unique login details in a local database.
 _______________________________________________________________________________________

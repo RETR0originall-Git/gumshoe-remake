@@ -20,4 +20,4 @@ Everything locally, in other ways: I can't steal your data.
 [![ScreenshotOfProject](Screenshot.png)](https://github.com/RETR0originall-Git/gumshoe-remake/blob/main/Screenshot.png)
 
 # About the extension.
-The extension will not be published to the Chrome Web Store due to Google's policies—it was removed a long time ago. The default passcode is: 'gselog', and you can always change it. I am not responsible for your actions using this extension, and I do not recommend using it without authorization on devices belonging to unaware individuals. Please remember that you can use it ethically for your own purposes.
+The extension will not be published to the Chrome Web Store due to Google's policies, it was removed a long time ago. The default passcode is: 'gselog', and you can always change it. I am not responsible for your actions using this extension, and I do not recommend using it without authorization on devices belonging to unaware individuals. Please remember that you can use it ethically for your own purposes.

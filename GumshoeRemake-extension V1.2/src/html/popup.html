@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Gumshoe Remake</title>
+  <style>
+    html, body {
+      width: 500px;
+      height: 450px;
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+      background: #ffffff;
+      color: #333;
+      position: relative;
+      overflow: hidden;
+    }
+
+    header {
+      background-color: #ddd9c7;
+      padding: 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid #000;
+      box-sizing: border-box;
+    }
+
+    #logo {
+      width: 48px;
+      height: 48px;
+      background: url("../img/icon48.png") no-repeat center center;
+      background-size: contain;
+    }
+
+    #refineTxt {
+      flex: 1;
+      margin-left: 10px;
+      padding: 5px;
+      font-size: 14px;
+    }
+
+    ul#recordList {
+      list-style-type: none;
+      margin: 0;
+      padding: 10px;
+      max-height: 370px; 
+      overflow-y: auto;
+      box-sizing: border-box;
+    }
+
+    ul#recordList li {
+      background: #fff;
+      border: 1px solid #000; 
+      border-radius: 4px;
+      padding: 8px;
+      margin-bottom: 5px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 13px;
+      box-sizing: border-box;
+    }
+
+    ul#recordList li p {
+      margin: 0;
+      font-size: 11px;
+      color: #666;
+    }
+
+    footer {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 500px;
+      background-color: #ddd9c7;
+      padding: 8px 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-top: 1px solid #000; 
+      border-bottom: 1px solid #000; 
+      box-sizing: border-box;
+      z-index: 10;
+    }
+
+    footer p {
+      margin: 0;
+      font-weight: 600;
+      font-size: 13px;
+    }
+
+    button {
+      padding: 6px 10px;
+      font-size: 13px;
+      background: #ccc;
+      border: 1px solid #000; 
+      border-radius: 3px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #bbb;
+    }
+  </style>
+  <script src="../js/manage.js" defer></script>
+</head>
+<body>
+  <header>
+    <a id="logo" href="manage.html" target="_blank"></a>
+    <input id="refineTxt" type="text" placeholder="Filter..." autofocus />
+  </header>
+
+  <ul id="recordList">
+
+  </ul>
+
+  <footer>
+    <p>Showing <b id="counter">0</b> record(s)</p>
+    <div>
+      <button id="passcodeBtn">Change Passcode</button>
+      <button id="deleteBtn">Delete Record(s)</button>
+    </div>
+  </footer>
+</body>
+</html>
